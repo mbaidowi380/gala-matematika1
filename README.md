@@ -1,1 +1,1 @@
-# gala-matematika1
+# gala-matematika
